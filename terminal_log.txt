@@ -1,0 +1,215 @@
+    1  git version
+    2  git help config
+    3  mkdir test
+    4  cd test
+    5  git init
+    6  git version
+    7  git version
+    8  mkdir DevFolio
+    9  cd DevFolio
+   10  git init
+   11  git status
+   12  git add demo.DevFolio
+   13  git commit -m "committing a DevFolio file"
+   14  git add DevFolio
+   15  git commit -m "committing a DevFolio File"
+   16  mkdir test
+   17  mkdir DevFolio
+   18  cd DevFolio
+   19  git init
+   20  mkdir DevFolio
+   21  cd DevFolio
+   22  git init
+   23  git status
+   24  git add DevFolio.zip
+   25  git commit -m "committing a DevFolio file"
+   26  ls
+   27  ls
+   28  cd DevFolio/
+   29  ls
+   30  cd ..
+   31  ls
+   32  git add .
+   33  git commit -m "committing a DevFolio file"
+   34  git push origin master
+   35  cd ..
+   36  ls
+   37  pwd
+   38  cd Documents/
+   39  cd DevFolio/
+   40  ls
+   41  git init
+   42  git add .
+   43  git commit -m "first commit"
+   44  git init
+   45  ls
+   46  git add .
+   47  git commit -m "first commit"
+   48  git remote add origin https://github.com/OrireB/HNGOrire.git
+   49  git push -u origin master
+   50  exit
+   51  echo Hello Orire
+   52  pwd
+   53  is
+   54  Is
+   55  Is
+   56  Is --help
+   57  ls
+   58  ls --help
+   59  echo Hello Orire
+   60  pwd
+   61  kk
+   62  ls
+   63  ls -a
+   64  ls --all
+   65  ls -l
+   66  ls -h
+   67  ls -r
+   68  ls -la
+   69  ls -lh
+   70  cd
+   71  cd hello
+   72  cd picture
+   73  cd ~
+   74  cd ..
+   75  cd -
+   76  cd
+   77  mkdir test
+   78  cd test
+   79  mkdir week1
+   80  mkdir week2
+   81  ls
+   82  ls -l
+   83  rmdir test
+   84  cd ..
+   85  rmdir test
+   86  rm -rf test
+   87  ls
+   88  ls test
+   89  mkdir test
+   90  cd test
+   91  mkdir week1
+   92  mkdir week2
+   93  mkdir week3
+   94  ls
+   95  ls -l
+   96  rm -i
+   97  rm --help
+   98  rm -i
+   99  rm i week1
+  100  rm i test
+  101  rm week1
+  102  rm week1
+  103  cd ..
+  104  rm i week1
+  105  rm -r week1
+  106  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  107  $ rm -i
+  108  rm: missing operand
+  109  Try 'rm --help' for more information.
+  110  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  111  $ rm i week1
+  112  rm: cannot remove 'i': No such file or directory
+  113  rm: cannot remove 'week1': Is a directory
+  114  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  115  $ rm i test
+  116  rm: cannot remove 'i': No such file or directory
+  117  rm: cannot remove 'test': No such file or directory
+  118  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  119  $ rm week1
+  120  rm: cannot remove 'week1': Is a directory
+  121  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  122  $ rm week1
+  123  rm: cannot remove 'week1': Is a directory
+  124  DELL@DESKTOP-NLSAMMI MINGW64 ~/test
+  125  $ cd ..
+  126  DELL@DESKTOP-NLSAMMI MINGW64 ~
+  127  $ rm i week1
+  128  rm: cannot remove 'i': No such file or directory
+  129  rm: cannot remove 'week1': No such file or directory
+  130  DELL@DESKTOP-NLSAMMI MINGW64 ~
+  131  $ rm -r week1
+  132  rm: cannot remove 'week1': No such file or 
+  133  cd ~/test
+  134  ls
+  135  rm -r week1
+  136  ls
+  137  rmdir week2
+  138  ls
+  139  rm -i week3
+  140  rmdir week3
+  141  ls
+  142  rm ./*
+  143  rm ./* week2
+  144  rm ./* test
+  145  cd test
+  146  mkdir test
+  147  cd test
+  148  touch orire.txt
+  149  ls
+  150  cp orire.txt orire_copy.txt
+  151  cp orire.txt ./Documents
+  152  cp orire.txt ./Documents/ joan.txt
+  153  cp orire.txt ./Documents/joan.txt
+  154  ls
+  155  cp orire.txt /c/Users/DELL/Documents/joan.txt
+  156  ls ~/Documents
+  157  ls
+  158  cp orire.txt /c/Users/DELL/Documents/joan.txt
+  159  ls ~/Documents
+  160  cat ~/Documents/joan.txt
+  161  mv orire.txt test
+  162  head
+  163  rm
+  164  rm test
+  165  ls
+  166  rm orire_copy.txt
+  167  ls
+  168  rmdir test
+  169  rmdir document
+  170  ls
+  171  cd 
+  172  rmdir test
+  173  cd ..
+  174  cd ~
+  175  cd -
+  176  cd
+  177  rm -r test
+  178  ls
+  179  q
+  180  clear
+  181  rndir
+  182  clear
+  183  pwd
+  184  clear
+  185  mkdir projects
+  186  cd projects
+  187  mkdir week1 week2
+  188  ls
+  189  cd week1
+  190  touch hello.txt
+  191  ls
+  192  cd ..week2
+  193  cd week2
+  194  ls
+  195  cd ../week2
+  196  cp ../week1/hello.txt hello_copy.txt
+  197  ls
+  198  cd ../week1
+  199  rm hello.txt
+  200  ls
+  201  cd ..
+  202  vim about_me.txt
+  203  ls
+  204  cat about_me.txt
+  205  cd ~/projects
+  206  git init
+  207  git add .
+  208  git commit -m "Initial commit with basic Linux commands"
+  209  git remote add origin https://github.com/OrireB/command-line-basics.git
+  210  vim README.md
+  211  git add README.md
+  212  git commit -m "Added README.md with project details"
+  213  git push origin master
+  214  git push origin master
+  215  history > terminal_log.txt
