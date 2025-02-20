@@ -60,3 +60,11 @@ This repository includes basic Linux commands and their usage.
 ### Outputs:
 - Include terminal logs or screenshots showing outputs from commands like `git commit`, `git push`, etc.
 
+
+## Week 2 Screenshots
+
+![Screenshot 1](week2%20assignment%20screenshots/Screenshot%20(59).png)
+![Screenshot 2](week2%20assignment%20screenshots/Screenshot%20(60).png)
+![Screenshot 3](week2%20assignment%20screenshots/Screenshot%20(61).png)
+![Screenshot 4](week2%20assignment%20screenshots/Screenshot%20(62).png)
+
